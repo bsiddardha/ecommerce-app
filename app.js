@@ -1,0 +1,5 @@
+
+
+
+
+Hello World! This is a simple e-commerce application built using HTML, CSS, and JavaScript. It allows users to browse products, add them to a shopping cart, and proceed to checkout. The application is designed to be responsive and user-friendlsy, providing a seamless shopping experience across different devices.f
